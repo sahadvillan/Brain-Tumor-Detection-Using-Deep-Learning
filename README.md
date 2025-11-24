@@ -83,24 +83,7 @@ huggingface-hub==0.34.4
    # Download from Kaggle
    kaggle datasets download -d mateuszbuda/lgg-mri-segmentation
    unzip lgg-mri-segmentation.zip -d data/
-   ```
-
-3. **Download pre-trained models**
-   ```python
-   from huggingface_hub import hf_hub_download
    
-   # Download models
-   hf_hub_download(
-       repo_id="Heet010/brain-tumor-detection-models",
-       filename="classification_model.pth",
-       local_dir="./checkpoints/classification"
-   )
-   
-   hf_hub_download(
-       repo_id="Heet010/brain-tumor-detection-models", 
-       filename="segmentation_model.pth",
-       local_dir="./checkpoints/segmentation"
-   )
    ```
 
 ### Usage
