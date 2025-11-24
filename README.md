@@ -356,14 +356,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 3. [Focal Loss Paper](https://arxiv.org/abs/1708.02002) - Focal Loss for Dense Object Detection
 4. [Dataset Paper](https://arxiv.org/abs/1909.09901) - Brain tumor segmentation with missing modalities
 
-## 📧 Contact
 
-**Heet Patel** - [@Heet010](https://github.com/Heet010)
-
-Project Link: [https://github.com/Heet010/Brain-Tumor-Detection-Using-Deep-Learning](https://github.com/Heet010/Brain-Tumor-Detection-Using-Deep-Learning)
-
-Pre-trained Models: [https://huggingface.co/Heet010/brain-tumor-detection-models](https://huggingface.co/Heet010/brain-tumor-detection-models)
-
----
 
 ⭐ **Star this repository if you found it helpful!** ⭐
