@@ -74,7 +74,7 @@ huggingface-hub==0.34.4
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Heet010/Brain-Tumor-Detection-Using-Deep-Learning.git
+   [git clone https://github.com/sahadvillan/Brain-Tumor-Detection-Using-Deep-Learning.git]
    cd Brain-Tumor-Detection-Using-Deep-Learning
    ```
 
