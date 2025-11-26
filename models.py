@@ -13,6 +13,7 @@ import math
 
 class ResidualBlock(nn.Module):
     """Basic residual block for ResNet"""
+
     
     def __init__(self, in_channels: int, out_channels: int, stride: int = 1, downsample=None):
         super(ResidualBlock, self).__init__()
